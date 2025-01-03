@@ -1,0 +1,15 @@
+Level-1
+What is the capital city of Australia?
+Sydney
+Melbourne
+Canberra
+Brisbane
+Canberra
+
+Level-2
+What is the capital city of Australia?
+Canberra
+Sydney
+Melbourne
+Brisbane
+Melbourne
