@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Extreme Drift/Scenes/RaceTracks/RaceTracks _V2.unity
+- path: Assets/Extreme Drift/Scenes/RaceTracks/RaceTracks _V3 1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
