@@ -31001,7 +31001,6 @@ MonoBehaviour:
   - {fileID: 1319000543813668, guid: c4853e8ac5f749a4c9a8687fafe76719, type: 3}
   - {fileID: 1710308616726968, guid: 0ff77007104804f4288748980db29316, type: 3}
   - {fileID: 1267364532069898, guid: 491cad13e2da032498a37a04fbd3e7a3, type: 3}
-  player: 0
   Camera1: {fileID: 0}
   Camera2: {fileID: 0}
   Camera3: {fileID: 0}
@@ -38211,7 +38210,6 @@ MonoBehaviour:
   - {fileID: 1319000543813668, guid: c4853e8ac5f749a4c9a8687fafe76719, type: 3}
   - {fileID: 1710308616726968, guid: 0ff77007104804f4288748980db29316, type: 3}
   - {fileID: 1267364532069898, guid: 491cad13e2da032498a37a04fbd3e7a3, type: 3}
-  player: 0
   Camera1: {fileID: 1705858920}
   Camera2: {fileID: 931369970}
   Camera3: {fileID: 1115732460}
@@ -49759,7 +49757,6 @@ MonoBehaviour:
   - {fileID: 1319000543813668, guid: c4853e8ac5f749a4c9a8687fafe76719, type: 3}
   - {fileID: 1710308616726968, guid: 0ff77007104804f4288748980db29316, type: 3}
   - {fileID: 1267364532069898, guid: 491cad13e2da032498a37a04fbd3e7a3, type: 3}
-  player: 0
   Camera1: {fileID: 0}
   Camera2: {fileID: 0}
   Camera3: {fileID: 0}
@@ -50783,7 +50780,6 @@ MonoBehaviour:
   - {fileID: 1319000543813668, guid: c4853e8ac5f749a4c9a8687fafe76719, type: 3}
   - {fileID: 1710308616726968, guid: 0ff77007104804f4288748980db29316, type: 3}
   - {fileID: 1267364532069898, guid: 491cad13e2da032498a37a04fbd3e7a3, type: 3}
-  player: 0
   Camera1: {fileID: 0}
   Camera2: {fileID: 0}
   Camera3: {fileID: 0}
@@ -66129,7 +66125,6 @@ MonoBehaviour:
   - {fileID: 1319000543813668, guid: c4853e8ac5f749a4c9a8687fafe76719, type: 3}
   - {fileID: 1710308616726968, guid: 0ff77007104804f4288748980db29316, type: 3}
   - {fileID: 1267364532069898, guid: 491cad13e2da032498a37a04fbd3e7a3, type: 3}
-  player: 0
   Camera1: {fileID: 0}
   Camera2: {fileID: 0}
   Camera3: {fileID: 0}

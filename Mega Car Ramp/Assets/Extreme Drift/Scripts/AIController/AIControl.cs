@@ -38,8 +38,6 @@ public class AIControl : MonoBehaviour
 
     public GameObject[] CarsPrefabs;
 
-    public bool player;
-
     [SerializeField] internal GameObject Camera1, Camera2, Camera3;
 
     void Awake()
